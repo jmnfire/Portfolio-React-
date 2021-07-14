@@ -17,7 +17,7 @@ app.use((req, res, next) => {
     next();
 });
 
-app.get('/api', (req, res, next) => {
+app.get('/api/', (req, res, next) => {
     res.send('API Status: I am awesome!')
 })
 

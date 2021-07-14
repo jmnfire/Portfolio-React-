@@ -37,7 +37,7 @@ function AboutPage(props) {
 
                         {/* <p>Linkedin<a href="https://www.linkedin.com/in/jovannixon/" target="blank" rel="noopener noreferrer"> Page</a></p>
                         <p>GitHub <a href="https://github.com/jmnfire" target="blank" rel="noopener noreferrer"> Page</a></p> */}
-                        <p>Resume <a href="https://docs.google.com/document/d/1azfgrbaMmYW74Wd-jkft5lVqsLgJw8NhHsc1b-vZnKc/edit" target="blank" rel="noopener noreferrer"> Here</a></p>
+                        {/* <p>Resume <a href="https://docs.google.com/document/d/1azfgrbaMmYW74Wd-jkft5lVqsLgJw8NhHsc1b-vZnKc/edit" target="blank" rel="noopener noreferrer"> Here</a></p> */}
                         
                 </Content>
         </div>
