@@ -5,7 +5,6 @@ import Col from "react-bootstrap/Col";
 
 import { Person, Mail } from '@material-ui/icons'
 import GitHubIcon from '@material-ui/icons/GitHub';
-import MailOutlineIcon from '@material-ui/icons/MailOutline';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import MusicNoteIcon from '@material-ui/icons/MusicNote';
 
