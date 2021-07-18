@@ -52,6 +52,7 @@ class ContactPage extends React.Component {
 
         })
         .catch(err => {
+            console.log(err)
 
             this.setState({
                 disable: false,
