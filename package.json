@@ -20,6 +20,7 @@
   },
   "author": "Jovan Nixon",
   "dependencies": {
+    "@netlify/plugin-nextjs": "^3.7.1",
     "@sendgrid/mail": "^7.4.5",
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
