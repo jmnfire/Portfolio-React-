@@ -66,9 +66,11 @@ class ContactPage extends React.Component {
         return(
             <div>
                 <Hero title={this.props.title} />
+                <Hero subTitle={this.props.subTitle} />
 
-                <Content>
-                <Form onSubmit={this.handleSubmit}>
+                {/* <Content> */}
+                
+                {/* <Form onSubmit={this.handleSubmit}>
                     <Form.Group>
                         <Form.Label htmlFor="full-name">Full Name</Form.Label>
                         <Form.Control id="full-name" name="name" type="text" value={this.state.name} onChange={this.handleChange} />
@@ -90,8 +92,8 @@ class ContactPage extends React.Component {
 
                     {this.state.emailSent === true && <p className="d-inline success-mgs">Email Sent</p>}
                     {this.state.emailSent === false && <p className="d-inline err-mgs">Email Not Sent</p>}
-                </Form>
-                </Content>
+                </Form> */}
+                {/* </Content> */}
             </div>
         );
     }

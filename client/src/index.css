@@ -47,3 +47,14 @@ code {
   color: #ee6352;
   padding: 10px 15px;
 }
+
+footer{text-align:center;}
+footer h4{
+display: inline;
+margin-right: 10px;
+  margin-left:10px;
+}
+
+cursor {
+  cursor: pointer
+}
