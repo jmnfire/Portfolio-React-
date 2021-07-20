@@ -31,7 +31,7 @@ class App extends React.Component {
       },
       contact: {
         title: 'let\'s connect',
-        subTitle: 'step into my world'
+        subTitle: 'step into my world below'
     },
   }
   }
